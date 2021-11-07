@@ -13,7 +13,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 from bs4 import BeautifulSoup
 import requests
 
-TOKEN = "2108948340:AAE0aozUsv1j1AM8bP4JCITFQv-tDl0Ru5s"
+TOKEN = "TOKEN GOES HERE"
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
